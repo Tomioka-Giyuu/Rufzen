@@ -1,0 +1,27 @@
+.maindiv-about{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 9rem;
+}
+.maindiv-about h3{
+    color: rgb(0, 0, 0);
+}
+
+.maindiv-about p{
+    width: 70%;
+    text-align: center;
+}
+
+/* .faqs{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.faqs h5, p{
+    display: flex;
+    align-items: start;
+} */
