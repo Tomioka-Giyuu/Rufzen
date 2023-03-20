@@ -59,21 +59,6 @@ console.log(dirname)
                         <SwiperSlide>Vertical Slide 5</SwiperSlide>
                     </Swiper>
                 </SwiperSlide>
-                {/* <SwiperSlide>
-                    <Swiper
-                        className="mySwiper2 swiper-v"
-                        direction={"vertical"}
-                        spaceBetween={50}
-                        pagination={{
-                          clickable: true,
-                        }}
-                        mousewheel={true}
-                        modules={[Pagination, Mousewheel]}
-                    >
-                        <SwiperSlide>Vertical Slide 1</SwiperSlide>
-                        <SwiperSlide>Vertical Slide 2</SwiperSlide>
-                    </Swiper>
-                </SwiperSlide> */}
             </Swiper>
         </div>
     )

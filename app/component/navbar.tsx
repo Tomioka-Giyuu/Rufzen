@@ -13,17 +13,17 @@ export default function Navbar(){
                 <input className='nav-search' placeholder='SEARCH' type={'text'}></input>
                 <li className='nav-items'>
                     <Link href={"/"}>
-                        HOME
+                        Home
                     </Link>
                 </li>
                 <li className='nav-items'>
                     <Link href={"/Shop"}>
-                        SHOP
+                        Shop
                     </Link>
                 </li>
                 <li className='nav-items'>
                     <Link href={"/About"}>
-                        ABOUT US
+                        About us
                     </Link>
                 </li>
                 <li className='nav-items'> 
@@ -32,7 +32,7 @@ export default function Navbar(){
                     </Link>
                 </li>
                 <Link href={"/Signup"}>
-                <button className='signupbtn'>SIGN UP</button>
+                <button className='signupbtn'>Sign up</button>
                 </Link>
             </ul>
         </header>
